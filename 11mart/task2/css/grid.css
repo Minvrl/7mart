@@ -1,0 +1,21 @@
+.row{
+    width: 100%;
+    
+    display: flex;
+}
+
+.col-1{
+    width: calc(100%/2);
+}
+
+.col-2{
+    width: calc(100%/2);
+}
+
+.col-1-m{
+    width: calc(100%/2);
+}
+
+.col-2-m{
+    width: calc(100%/2);
+}
